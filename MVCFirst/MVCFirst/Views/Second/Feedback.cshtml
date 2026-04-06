@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Feedback Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Отзыв</h1>
+    @if (ViewData.Keys.Contains("Name"))
+    {
+        <p> Здравствуйте, @ViewData["Name"]</p>
+    }
+    <input type="text" placeholder="введите текст"/>
+</div>
