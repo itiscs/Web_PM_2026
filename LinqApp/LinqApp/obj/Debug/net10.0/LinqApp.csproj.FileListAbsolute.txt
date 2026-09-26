@@ -1,0 +1,14 @@
+C:\Users\Mi\source\repos\LinqApp\LinqApp\bin\Debug\net10.0\LinqApp.exe
+C:\Users\Mi\source\repos\LinqApp\LinqApp\bin\Debug\net10.0\LinqApp.deps.json
+C:\Users\Mi\source\repos\LinqApp\LinqApp\bin\Debug\net10.0\LinqApp.runtimeconfig.json
+C:\Users\Mi\source\repos\LinqApp\LinqApp\bin\Debug\net10.0\LinqApp.dll
+C:\Users\Mi\source\repos\LinqApp\LinqApp\bin\Debug\net10.0\LinqApp.pdb
+C:\Users\Mi\source\repos\LinqApp\LinqApp\obj\Debug\net10.0\LinqApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\source\repos\LinqApp\LinqApp\obj\Debug\net10.0\LinqApp.AssemblyInfoInputs.cache
+C:\Users\Mi\source\repos\LinqApp\LinqApp\obj\Debug\net10.0\LinqApp.AssemblyInfo.cs
+C:\Users\Mi\source\repos\LinqApp\LinqApp\obj\Debug\net10.0\LinqApp.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\LinqApp\LinqApp\obj\Debug\net10.0\LinqApp.dll
+C:\Users\Mi\source\repos\LinqApp\LinqApp\obj\Debug\net10.0\refint\LinqApp.dll
+C:\Users\Mi\source\repos\LinqApp\LinqApp\obj\Debug\net10.0\LinqApp.pdb
+C:\Users\Mi\source\repos\LinqApp\LinqApp\obj\Debug\net10.0\LinqApp.genruntimeconfig.cache
+C:\Users\Mi\source\repos\LinqApp\LinqApp\obj\Debug\net10.0\ref\LinqApp.dll
