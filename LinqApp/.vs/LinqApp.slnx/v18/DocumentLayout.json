@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mi\\source\\repos\\LinqApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Mi\\source\\repos\\Web_PM_2026\\LinqApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50D03497-3FBD-4C0F-8B3C-8DB622F3EED9}|LinqApp\\LinqApp.csproj|c:\\users\\mi\\source\\repos\\linqapp\\linqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D03497-3FBD-4C0F-8B3C-8DB622F3EED9}|LinqApp\\LinqApp.csproj|solutionrelative:linqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28790288-1C23-0311-F10C-E27949939897}|LinqApp\\LinqApp.csproj|c:\\users\\mi\\source\\repos\\web_pm_2026\\linqapp\\linqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28790288-1C23-0311-F10C-E27949939897}|LinqApp\\LinqApp.csproj|solutionrelative:linqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50D03497-3FBD-4C0F-8B3C-8DB622F3EED9}|LinqApp\\LinqApp.csproj|c:\\users\\mi\\source\\repos\\linqapp\\linqapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D03497-3FBD-4C0F-8B3C-8DB622F3EED9}|LinqApp\\LinqApp.csproj|solutionrelative:linqapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28790288-1C23-0311-F10C-E27949939897}|LinqApp\\LinqApp.csproj|c:\\users\\mi\\source\\repos\\web_pm_2026\\linqapp\\linqapp\\fitness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28790288-1C23-0311-F10C-E27949939897}|LinqApp\\LinqApp.csproj|solutionrelative:linqapp\\fitness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50D03497-3FBD-4C0F-8B3C-8DB622F3EED9}|LinqApp\\LinqApp.csproj|c:\\users\\mi\\source\\repos\\linqapp\\linqapp\\fitness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D03497-3FBD-4C0F-8B3C-8DB622F3EED9}|LinqApp\\LinqApp.csproj|solutionrelative:linqapp\\fitness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28790288-1C23-0311-F10C-E27949939897}|LinqApp\\LinqApp.csproj|c:\\users\\mi\\source\\repos\\web_pm_2026\\linqapp\\linqapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28790288-1C23-0311-F10C-E27949939897}|LinqApp\\LinqApp.csproj|solutionrelative:linqapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Mi\\source\\repos\\LinqApp\\LinqApp\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\Mi\\source\\repos\\Web_PM_2026\\LinqApp\\LinqApp\\Client.cs",
               "RelativeDocumentMoniker": "LinqApp\\Client.cs",
-              "ToolTip": "C:\\Users\\Mi\\source\\repos\\LinqApp\\LinqApp\\Client.cs",
+              "ToolTip": "C:\\Users\\Mi\\source\\repos\\Web_PM_2026\\LinqApp\\LinqApp\\Client.cs",
               "RelativeToolTip": "LinqApp\\Client.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAABAwBUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwBUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-12T07:17:57.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Fitness.cs",
-              "DocumentMoniker": "C:\\Users\\Mi\\source\\repos\\LinqApp\\LinqApp\\Fitness.cs",
+              "DocumentMoniker": "C:\\Users\\Mi\\source\\repos\\Web_PM_2026\\LinqApp\\LinqApp\\Fitness.cs",
               "RelativeDocumentMoniker": "LinqApp\\Fitness.cs",
-              "ToolTip": "C:\\Users\\Mi\\source\\repos\\LinqApp\\LinqApp\\Fitness.cs",
+              "ToolTip": "C:\\Users\\Mi\\source\\repos\\Web_PM_2026\\LinqApp\\LinqApp\\Fitness.cs",
               "RelativeToolTip": "LinqApp\\Fitness.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwCEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-12T07:01:04.606Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mi\\source\\repos\\LinqApp\\LinqApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mi\\source\\repos\\Web_PM_2026\\LinqApp\\LinqApp\\Program.cs",
               "RelativeDocumentMoniker": "LinqApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Mi\\source\\repos\\LinqApp\\LinqApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Mi\\source\\repos\\Web_PM_2026\\LinqApp\\LinqApp\\Program.cs",
               "RelativeToolTip": "LinqApp\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAwCsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-12T06:46:48.373Z",
               "EditorCaption": ""
